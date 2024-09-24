@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nwafor Chiagoziem Joseph</h1>
 <h3 align="center">I’m a front-end web developer dedicated to transforming your vision into engaging, user-friendly websites. I specialize in creating visually appealing designs that enhance user experience and drive conversions. With a focus on responsive design and performance, I ensure your site looks great on any device while effectively communicating your brand message.</h3>
+<h1>Bio</h1>
 
 - 🔭 I’m currently working on [MY Portfolio Website](https://cartelroyz.xyz)
 
